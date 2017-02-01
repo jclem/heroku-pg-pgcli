@@ -1,6 +1,6 @@
 {
   "name": "@jclem/heroku-pg-pgcli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Heroku CLI plugin for using pgcli",
   "main": "index.js",
   "scripts": {
