@@ -1,0 +1,24 @@
+{
+  "name": "@jclem/heroku-pg-pgcli",
+  "version": "0.0.1",
+  "description": "A Heroku CLI plugin for using pgcli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "jclem/heroku-pg-pgcli",
+  "keywords": [
+    "heroku-plugin",
+    "pgcli"
+  ],
+  "author": "Jonathan Clem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jclem/heroku-pg-pgcli/issues"
+  },
+  "homepage": "https://github.com/jclem/heroku-pg-pgcli#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "heroku-cli-util": "^6.1.1"
+  }
+}
